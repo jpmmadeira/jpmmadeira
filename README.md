@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Madeira</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
+<h3 align="center">A passionate Frontend Developer from Portugal</h3>
 
 <p>
 I was only an electronic music producer with a wanderluster DNA that decided to live through a metamorphosis from beats to bytes and from rhythms to algorithms. 
