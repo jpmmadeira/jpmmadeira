@@ -3,7 +3,7 @@
 
 <p>
 I was only an electronic music producer with a wanderluster DNA that decided to live through a metamorphosis from beats to bytes and from rhythms to algorithms. 
-Now enjoying the journey of this new way of expressing myself among lines of code fed by logic, creativity && some coffee in the mix. 
+Now enjoying the journey of this new way of expressing myself among lines of code fed by logic, creativity and some coffee in the mix. 
 </p>
 
 <h3 align="left">Reach me:</h3>
