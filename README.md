@@ -8,7 +8,7 @@ Now enjoying the journey of this new way of expressing myself among lines of cod
 
 <h3 align="left">Reach me:</h3>
 
-[📄](http://www.joaomadeira.net/resume/Joao_Madeira_Resume.pdf) | [🌎](http://www.joaomadeira.net/) | [👔](https://www.linkedin.com/in/jpmmadeira/) | [✉️](mailto:mail@joaomadeira.net) |
+[📄](http://www.joaomadeira.net/resume/Joao_Madeira_Resume.pdf) | [🌎](http://www.joaomadeira.net/) | [👔](https://www.linkedin.com/in/jpmmadeira/) | [✉️](mailto:mail@joaomadeira.net)
 
 <h3 align="left">Some skills:</h3>
 <p align="left"> 
