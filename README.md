@@ -11,7 +11,8 @@ Now enjoying the journey of this new way of expressing myself among lines of cod
 [🌎](http://www.joaomadeira.net/) | [👔](https://www.linkedin.com/in/jpmmadeira/) | [📄](http://www.joaomadeira.net/resume/Joao_Madeira_Resume.pdf) | [✉️](mailto:mail@joaomadeira.net)
 
 <h3 align="left">Some skills:</h3>
-<p align="left"> 
+<p align="left">
+ <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" alt="angular" width="20" height="20"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
