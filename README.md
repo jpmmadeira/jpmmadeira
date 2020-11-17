@@ -21,15 +21,19 @@
   </a>
 
 </p>
+
 <h4 align="center">
   👋 &nbsp; Hello! I'm <b>João Madeira</b>!&nbsp;
 </h4>
+
 <p align="center">
   💙 &nbsp; A passionate <b>Frontend Developer</b>&nbsp;
 </p>
-<p align="center">
-  📌 &nbsp; Living in <b>Portugal</b>&nbsp;
-</p>
+
 <p align="center">
   💼  &nbsp; Actually working at <b>Altran, Technologies SA</b>&nbsp;
+</p>
+
+<p align="center">
+  📌 &nbsp; Living in <b>Portugal</b>&nbsp;
 </p>
