@@ -1,34 +1,35 @@
-<h1 align="center">Hi 👋, I'm João Madeira</h1>
-<h3 align="center">A passionate Frontend Developer from Portugal</h3>
-
-<p>
-I was only an electronic music producer with a wanderluster DNA that decided to live through a metamorphosis from beats to bytes and from rhythms to algorithms. 
-Now enjoying the journey of this new way of expressing myself among lines of code fed by logic, creativity and some coffee in the mix. 
+<p align="center">
+  <img src="./banner.png" alt="João Madeira - Frontend Developer" />
 </p>
 
-<h3 align="left">Reach me:</h3>
+<p align="center">
 
-[🌎](http://www.joaomadeira.net/) | [👔](https://www.linkedin.com/in/jpmmadeira/) | [📄](http://www.joaomadeira.net/resume/Joao_Madeira_Resume.pdf) | [✉️](mailto:mail@joaomadeira.net)
+<a href="https://joaomadeira.net" alt="Website" target="_blank">
+    <img src="https://img.shields.io/badge/-Personal Website-4c4c4c?style=flat-square" />
+  </a>
 
-<h3 align="left">Some skills:</h3>
-<p align="left">
- <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" alt="angular" width="20" height="20"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="20" height="20"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
+  <a href="https://www.linkedin.com/in/jpmmadeira" alt="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-4c4c4c?style=flat-square" />
+  </a>
+
+  <a href="https://www.joaomadeira.net/resume/Joao_Madeira_Resume.pdf" alt="Resume" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-4c4c4c?style=flat-square" />
+  </a>
+
+  <a href="mailto:mail@joaomadeira.net" alt="E-mail" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-4c4c4c?style=flat-square" />
+  </a>
+
+</p>
+<h4 align="center">
+  👋 &nbsp; Hello! I'm <b>João Madeira</b>!&nbsp;
+</h4>
+<p align="center">
+  💙 &nbsp; A passionate <b>Frontend Developer</b>&nbsp;
+</p>
+<p align="center">
+  📌 &nbsp; Living in <b>Portugal</b>&nbsp;
+</p>
+<p align="center">
+  💼  &nbsp; Actually working at <b>Altran, Technologies SA</b>&nbsp;
 </p>
