@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  💼  &nbsp; Actually working at <b>Altran, Technologies SA</b>&nbsp;
+  💼  &nbsp; Actually working at <b>Capgemini Engineering</b>&nbsp;
 </p>
 
 <p align="center">
