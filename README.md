@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  💼  &nbsp; Actually working at <b>Capgemini Engineering</b>&nbsp;
+  💼  &nbsp; Actually working at <b>Uniplaces</b>&nbsp;
 </p>
 
 <p align="center">
