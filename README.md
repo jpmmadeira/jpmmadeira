@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="João Madeira - Frontend Developer" />
+  <img src="./banner.png" alt="João Madeira - Full Stack Developer" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 </h4>
 
 <p align="center">
-  💙 &nbsp; A passionate <b>Frontend Developer</b>&nbsp;
+  💙 &nbsp; A passionate <b>Full Stack Developer</b>&nbsp;
 </p>
 
 <p align="center">
