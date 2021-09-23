@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner_2021.png" alt="João Madeira - Full Stack Developer" />
+  <img src="./banner_2021.jpeg" alt="João Madeira - Full Stack Developer" />
 </p>
 
 <p align="center">
