@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner_2021.jpeg" alt="João Madeira - Full Stack Developer" />
+  <img src="./banner_2021.jpeg" alt="João Madeira - AI Full Stack Developer" />
 </p>
 
 <p align="center">
@@ -27,11 +27,11 @@
 </h4>
 
 <p align="center">
-  💙 &nbsp; A passionate <b>Full Stack Developer</b>&nbsp;
+  💙 &nbsp; A passionate <b>AI Full Stack Developer</b>&nbsp;
 </p>
 
 <p align="center">
-  💼  &nbsp; Actually working at <b>Uniplaces</b>&nbsp;
+  💼  &nbsp; Currently working at <b>Addy AI</b>&nbsp;
 </p>
 
 <p align="center">
